@@ -4,3 +4,5 @@ Hazarika, D.; Madhavan, S.; Gupta, C.N. CameraEEG: Synchronous Recording of Elec
 
 It works on mbraintrains smarting EEG amplifier..The software code for download is given below
 https://www.dropbox.com/scl/fi/lwtwbkewkezpxg1c5cyi0/Updated_CameraEEG.zip?rlkey=19s0o3cntk1ia9ad0w34ve76y&st=v5c10bmy&dl=0
+
+For more details you can email cngupta@iitg.ac.in/cnavingupta@gmail.com
